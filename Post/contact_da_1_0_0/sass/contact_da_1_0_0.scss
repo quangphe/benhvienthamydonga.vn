@@ -1,0 +1,90 @@
+.contact_da_1_0_0 {
+    padding: 30px 0 ;
+    width: 100%;
+    margin: 0 auto;
+    &__form {
+        width: 100%;
+        background-color: #007471;
+        text-align: center;
+        border-radius: 10px;
+        article {
+            padding: 0px 15px 15px;
+        }
+        p {
+            font-weight: 600;
+            font-size: 16px;
+            color: #fff;
+            padding-top: 15px;
+        }
+        button {
+            border: none;
+            background: none;
+            img {
+                width: 55%;
+                height: auto;
+            }
+        }
+    }
+    &__formRegist {
+        input {
+            width: 100%;
+            border-radius: 5px;
+            padding: 10px 12px;
+            margin: 0 0 10px;
+            border: none;
+        }
+    }
+    &__regist2 {
+        background: #D8A956;
+        position: relative;
+        width: 55%;
+        margin: 0px auto;
+        border-radius: 5px;
+        font-weight: 600;
+        font-size: 18px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+
+        span {
+            color: #007471;
+            margin: 0;
+        }
+    }
+
+    &__coating2 {
+        background: #fff;
+        border-radius: 5px 87px 0px 5px;
+        padding: 11px 0;
+        text-align: center;
+        width: 95%;
+    }
+
+    &__iconReg2 {
+        position: absolute;
+        top: 0px;
+        right: 5px;
+        width: 15px;
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+    @media (max-width: 820px) {
+        &__form {
+            p {
+                font-size: 18px;
+            }
+            article {
+                padding: 0px 12px 20px;
+            }
+        }
+        &__regist2 {
+            width: 65%;
+            font-size: 16px;
+        }
+    }
+    @media (max-width: 767px) {
+       padding: 20px 0;
+    }
+}

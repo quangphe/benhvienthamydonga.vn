@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,gBADY,CACZ,GAAG,AAAA,CACC,OAAO,CAAE,KAAK,CACd,KAAK,CAAE,IAAI,CACX,MAAM,CAAC,IAAI,CACd",
+    "sources": [
+        "slider_da_1_0_0.scss"
+    ],
+    "names": [],
+    "file": "slider_da_1_0_0.css"
+}

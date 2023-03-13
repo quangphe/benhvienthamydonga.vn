@@ -1,0 +1,91 @@
+.regist_da_1_0_0 {
+    padding: 20px 0;
+
+    &__regist {
+        background: #D8A956;
+        position: relative;
+        width: 15%;
+        margin: 0px auto;
+        border-radius: 5px;
+        font-weight: 600;
+        font-size: 18px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        margin-bottom: 20px;
+        transition: all 0.2s linear;
+
+        p {
+            color: #fff;
+            margin: 0;
+        }
+    }
+
+    &__coating {
+        background: #007471;
+        border-radius: 5px 87px 0px 5px;
+        padding: 15px 0;
+        text-align: center;
+        width: 95%;
+        transition: all 0.2s linear;
+
+    }
+
+    &__iconReg {
+        position: absolute;
+        top: 0px;
+        right: 5px;
+        width: 15px;
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+
+    &__regist2 {
+        background: #D8A956;
+        position: relative;
+        width: 15%;
+        margin: 0px auto;
+        border-radius: 5px;
+        font-weight: 600;
+        font-size: 18px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+
+        p {
+            color: #007471;
+            margin: 0;
+        }
+    }
+
+    &__coating2 {
+        background: #fff;
+        border-radius: 5px 87px 0px 5px;
+        padding: 15px 0;
+        text-align: center;
+        width: 95%;
+    }
+
+    &__iconReg2 {
+        position: absolute;
+        top: 0px;
+        right: 5px;
+        width: 15px;
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+
+    &__coating:hover {
+        background: #D8A956;
+    }
+
+    &__regist:hover {
+        background: #007471;
+    }
+
+}

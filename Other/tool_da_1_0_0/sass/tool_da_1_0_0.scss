@@ -1,0 +1,46 @@
+.tool_da_1_0_0 {
+    display: none;
+    position: fixed;
+    right: 30px;
+    bottom: 100px;
+
+    &__img {
+        margin-bottom: 5px;
+    }
+
+    @media (max-width: 767px) {
+        display: block;
+
+        &__img img {
+            width: 48px;
+            height: auto;
+        }
+    }
+
+    @media (max-width: 480px) {
+        right: 15px;
+        bottom: 100px;
+
+        &__img img {
+            width: 40px;
+        }
+    }
+
+    @media (max-width: 414px) {
+        &__img img {
+            width: 35px;
+        }
+    }
+
+    @media (max-width: 312px) {
+        &__img img {
+            width: 40px;
+        }
+    }
+
+    @media (max-width: 280px) {
+        &__img img {
+            width: 28px;
+        }
+    }
+}

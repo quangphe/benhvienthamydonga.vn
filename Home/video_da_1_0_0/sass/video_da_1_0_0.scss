@@ -1,0 +1,215 @@
+.video_da_1_0_0 {
+    padding: 20px 0;
+
+    &__title {
+        font-size: 26px;
+        text-align: left;
+        font-weight: 600;
+        color: #007471;
+        border-bottom: 2px solid #007471;
+        text-transform: uppercase;
+        padding-bottom: 5px;
+    }
+
+    &__box {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: space-between;
+        padding: 20px 0;
+    }
+
+    &__content {
+        width: 49%;
+    }
+
+    &__video {
+        overflow: hidden;
+        background: #000;
+        position: relative;
+
+        &::after {
+            content: "";
+            position: absolute;
+            background: url(../images/play.png) center 0 no-repeat;
+            background-size: 60%;
+            width: 80px;
+            height: 80px;
+            display: block;
+            left: calc(50% - 40px);
+            top: calc(50% - 25px);
+            transition: .3s;
+            opacity: 1;
+        }
+
+        img {
+            opacity: 0.6;
+            width: 100%;
+            height: auto;
+            transition: 0.3s;
+            position: relative;
+            display: block;
+            transform: scale(1.02);
+
+            &:hover {
+                opacity: 1;
+                cursor: pointer;
+                transform: scale(1.04);
+            }
+
+        }
+
+    }
+
+
+    &__text {
+        text-align: left;
+        color: #000;
+        font-size: 16px;
+        font-weight: 600;
+        padding: 15px;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+        transition: all 0.2s linear;
+
+        &:hover {
+            background-color: #eee;
+        }
+    }
+
+    &__item {
+        display: flex;
+        align-items: center;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+        margin-bottom: 15px;
+        transition: all 0.2s linear;
+
+        &:hover {
+            background-color: #eee;
+        }
+    }
+
+    &__pic {
+        overflow: hidden;
+        width: 35%;
+        position: relative;
+        background: #000;
+
+        img {
+            width: 100%;
+            height: auto;
+            display: block;
+            transition: all 0.2s linear;
+            opacity: 0.6;
+
+
+            &:hover {
+                opacity: 1;
+                transition: 0.5s;
+                cursor: pointer;
+            }
+        }
+
+        &::after {
+            content: "";
+            position: absolute;
+            background: url(../images/play.png) center 0 no-repeat;
+            background-size: 45%;
+            width: 60px;
+            height: 45px;
+            display: block;
+            left: calc(50% - 30px);
+            top: calc(50% - 13px);
+            transition: .3s;
+            opacity: 1;
+        }
+    }
+
+    &__detail {
+        width: 75%;
+        text-align: left;
+        color: #000;
+        font-size: 16px;
+        font-weight: 600;
+        padding: 10px;
+    }
+
+    &__btn {
+        text-align: center;
+
+        &--mb{
+            display: none;
+        }
+
+        a {
+            color: #007471;
+            font-weight: 600;
+            font-size: 16px;
+            border-bottom: 2px solid #007471;
+        }
+
+        &:hover a {
+            color: #D8A956;
+            border-bottom: 2px solid #D8A956;
+
+        }
+    }
+
+    @media (max-width: 820px) {
+        &__title {
+            font-size: 26px;
+        }
+
+        &__text {
+            font-size: 16px;
+        }
+
+        &__detail {
+            font-size: 16px;
+        }
+    }
+
+    @media (max-width: 767px) {
+        border-top: 10px solid #F5F5F5;
+        padding: 20px 0 0;
+
+        &__content {
+            width: 100%;
+        }
+
+        &__box {
+            gap: 15px;
+        }
+
+        &__title{
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+        }
+
+        &__btn {
+            &--pc{
+                display: none;
+            }
+            &--mb{
+                display: block;
+                color: #007471;
+                font-weight: 600;
+                font-size: 16px;
+                text-transform: none;
+                text-decoration: underline;
+            }
+        } 
+    }
+
+    @media (max-width: 320px) {
+        &__text {
+            padding: 15px 5px;
+
+            br {
+                display: none;
+            }
+        }
+    }
+}

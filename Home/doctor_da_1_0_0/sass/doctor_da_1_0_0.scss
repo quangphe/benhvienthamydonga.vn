@@ -1,0 +1,207 @@
+.doctor_da_1_0_0 {
+    padding: 20px 0;
+    background-color: #F0FBFA;
+
+    &__title {
+        color: #007471;
+        font-size: 26px;
+        font-weight: 600;
+        text-align: center;
+    }
+
+    &__box {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-left: 40px;
+
+    }
+
+    &__item {
+        background: #007471;
+        position: relative;
+        width: 45%;
+        border-radius: 5px;
+        margin: 15px 0;
+        cursor: pointer;
+        &:nth-child(1){order: 1;}
+        &:nth-child(2){order: 5;}
+        &:nth-child(3){order: 3;}
+        &:nth-child(4){order: 2;}
+        &:nth-child(5){order: 4;}
+        &:nth-child(6){order: 6;}
+    }
+
+    &__content {
+        background: #fff;
+        height: 100%;
+        border-radius: 0 80px 0 0;
+        padding: 20px 25px 20px 80px;
+    }
+
+    &__country {
+        position: absolute;
+        top: -15px;
+        width: 50px;
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+    &__name {
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+
+    &__img {
+        position: absolute;
+        bottom: 0;
+        width: 110px;
+        height: 115%;
+        left: -50px;
+        overflow: hidden;
+
+        img {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+    }
+
+    &__icon {
+        position: absolute;
+        top: 3px;
+        right: 6px;
+        width: 15px;
+        height: 22px;
+        background: url('https://benhvienthammydonga.vn/wp-content/themes/SCI_Theme/Module/Home/doctor_da_1_0_0/images/icon.png') no-repeat center;
+        background-size: contain;
+    }
+
+    &__regist {
+        background: #D8A956;
+        position: relative;
+        width: 15%;
+        margin: 0px auto;
+        border-radius: 5px;
+        font-weight: 600;
+        font-size: 18px;
+        filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.55));
+
+        p {
+            color: #fff;
+            margin: 0;
+        }
+    }
+
+    &__coating {
+        background: #007471;
+        border-radius: 5px 87px 0px 5px;
+        padding: 15px 0;
+        text-align: center;
+        width: 95%;
+        transition: all .2s linear;
+    }
+
+    &__iconReg {
+        position: absolute;
+        top: 0px;
+        right: 5px;
+        width: 15px;
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+    &__coating:hover {
+        background: #D8A956;
+    }
+
+    &__regist:hover {
+        background: #007471;
+    }
+
+    @media (max-width:820px) {
+        &__regist {
+            width: 20%;
+        }
+
+        &__title {
+            font-size: 26px;
+        }
+    }
+
+    @media(max-width: 767px){
+        &__item {
+            width: 100%;
+            order: unset !important;
+        }
+
+        &__regist {
+            width: 40%;
+        }
+    }
+    
+
+    @media (max-width:428px) {
+        &__item {
+            width: 90%;
+        }
+
+        &__coating {
+            padding: 10px 0;
+        }
+
+        &__box {
+            justify-content: end;
+            margin-top: 20px;
+            gap: 0px;
+            margin-left: 0;
+        }
+
+        &__iconReg {
+            position: absolute;
+            top: -3px;
+            right: 4px;
+            width: 15px;
+        }
+
+        &__content {
+            padding: 15px 0 15px 50px;
+        }
+
+        &__img {
+            width: 90px;
+        }
+
+        &__regist {
+            width: 40%;
+        }
+    }
+
+    @media (max-width:320px) {
+        &__item {
+            width: 84%;
+        }
+
+        &__regist {
+            width: 50%;
+
+        }
+
+        &__title {
+            font-size: 18px;
+        }
+
+        &__regist {
+            min-width: 120px;
+            font-size: 13px;
+        }
+
+    }
+}

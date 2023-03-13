@@ -1,0 +1,70 @@
+.postAuthor_da_1_0_0 {
+    font-size: 13px;
+    &__navg {
+        display: flex;
+        padding: 0;
+        margin: 0;
+    }
+    li {
+        list-style-type: none;
+        display: flex;
+        padding-left: 15px;
+    }
+    &__iconDate {
+        background: url(https://benhvienthammydonga.vn/wp-content/themes/SCI_Theme/Module/Post/postAuthor_da_1_0_0/images/calendar.png) no-repeat;
+        width: 18px;
+        height: 16px;
+    }
+    &__iconPerson {
+        background: url(https://benhvienthammydonga.vn/wp-content/themes/SCI_Theme/Module/Post/postAuthor_da_1_0_0/images/pen-tool.png) no-repeat;
+        width: 18px;
+        height: 18px;
+        margin-top: 2px;
+    }
+    &__iconDoctor {
+        background: url(https://benhvienthammydonga.vn/wp-content/themes/SCI_Theme/Module/Post/postAuthor_da_1_0_0/images/frame.png) no-repeat;
+        width: 18px;
+        height: 23px;
+    }
+    &__iconview {
+        background: url(https://benhvienthammydonga.vn/wp-content/themes/SCI_Theme/Module/Post/postAuthor_da_1_0_0/images/eye.png) no-repeat;
+        width: 18px;
+        height: 18px;
+    }
+    p {
+        font-weight: 600;
+        color: #000;
+        margin-left: 5px;
+        font-size: 13px !important;
+        a {
+            color: #105496;
+        }
+    }
+    @media (max-width: 1180px) {
+        &__navg {
+            flex-wrap: wrap;
+        }
+    }
+    @media (max-width: 767px) {
+        li {
+            padding-left: 10px;
+        }
+        &__Date {
+            order: 1;
+        }
+        &__Person {
+            order: 2;
+        }
+        &__Doctor {
+            order: 4;
+        }
+        &__View {
+            order: 3;   
+        }
+    }
+    @media (max-width: 480px) {
+        &__navg {
+            padding-left: 0;
+        }
+    }
+}

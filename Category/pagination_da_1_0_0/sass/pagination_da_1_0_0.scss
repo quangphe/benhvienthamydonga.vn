@@ -1,0 +1,40 @@
+.pagination_da_1_0_0 {
+    text-align: center;
+    line-height: 33px;
+    padding-right: 10px;
+}
+
+.pagination_da_1_0_0 .page_nav {
+    padding-left: 0
+}
+
+.pagination_da_1_0_0 .wp-pagenavi {
+    display: flex;
+    justify-content: center
+}
+
+.pagination_da_1_0_0 .wp-pagenavi .pages {
+    margin: 0 20px 0 0;
+    line-height: 30px
+}
+
+.pagination_da_1_0_0 .wp-pagenavi .current,
+.pagination_da_1_0_0 .wp-pagenavi a {
+    border: 1px solid #999;
+    width: 30px;
+    height: 30px;
+    display: block;
+    line-height: 30px;
+    margin: 0 5px;
+    color: #999;
+    &:hover{
+        color: #fff;
+        border:1px solid #007471;
+        background: #007471;
+    }
+}
+.pagination_da_1_0_0 .wp-pagenavi .current {
+    color: #fff;
+    border:1px solid #007471;
+    background: #007471;
+}

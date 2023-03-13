@@ -1,0 +1,111 @@
+.tool_da_2_0_0 {
+
+    display: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+
+    &__box {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+        box-shadow: rgb(149 157 165 / 20%) 0px 8px 24px;
+        padding: 15px 0 2px 0;
+    }
+
+    &__item {
+
+        & p {
+            color: #c3c3c3;
+            font-size: 16px;
+        }
+
+        & .img {
+            background-size: contain;
+            background-repeat: no-repeat;
+            width: 20px;
+            height: 22px;
+            margin: 0 auto;
+        }
+
+        &--home {
+            background-image: url(../images/home.png);
+        }
+
+        .active &--home {
+            background-image: url(../images/home-hover.png);
+        }
+
+        &--video {
+            background-image: url(../images/film.png);
+        }
+
+        .active &--video {
+            background-image: url(../images/film-hover.png);
+        }
+
+        &--image {
+            background-image: url(../images/image.png);
+        }
+
+        .active &--image {
+            background-image: url(../images/image-hover.png);
+        }
+
+        &--price {
+            background-image: url(../images/dollar-sign.png);
+        }
+
+        .active &--price {
+            background-image: url(../images/dollar-sign-hover.png);
+        }
+
+        &--gift {
+            background-image: url(../images/gift.png);
+        }
+
+        .active &--gift {
+            background-image: url(../images/gift-hover.png);
+        }
+
+    }
+
+    @media (max-width: 767px) {
+        display: block;
+    }
+
+    @media (max-width:480px) {
+        & p {
+            font-size: 15px;
+        }
+    }
+
+    @media (max-width: 414px) {
+        &__box {
+            gap: 40px;
+        }
+
+        & p {
+            font-size: 14px;
+        }
+    }
+
+    @media (max-width: 390px) {
+        & p {
+            font-size: 12px;
+        }
+    }
+
+    @media (max-width: 280px) {
+        &__box {
+            gap: 20px;
+        }
+
+        & p {
+            font-size: 11px;
+        }
+    }
+}
