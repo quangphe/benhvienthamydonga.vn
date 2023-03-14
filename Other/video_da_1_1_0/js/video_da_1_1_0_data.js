@@ -4,38 +4,38 @@ const video_da_1_1_0_menu = [{
     img: [{
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }]
 }, {
     name: 'Nâng mũi',
@@ -43,38 +43,38 @@ const video_da_1_1_0_menu = [{
     img: [{
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }]
 }, {
     name: 'Nâng ngực',
@@ -82,38 +82,38 @@ const video_da_1_1_0_menu = [{
     img: [{
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }]
 }, {
     name: 'Trẻ hóa da',
@@ -121,38 +121,38 @@ const video_da_1_1_0_menu = [{
     img: [{
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }]
 }, {
     name: 'Trị nám, tàn nhang',
@@ -160,38 +160,38 @@ const video_da_1_1_0_menu = [{
     img: [{
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }]
 }, {
     name: 'Tiêm filler/botox',
@@ -199,38 +199,38 @@ const video_da_1_1_0_menu = [{
     img: [{
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }]
 }, {
     name: 'Hút mỡ',
@@ -238,38 +238,38 @@ const video_da_1_1_0_menu = [{
     img: [{
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }]
 }, {
     name: 'Cấy mỡ',
@@ -277,38 +277,38 @@ const video_da_1_1_0_menu = [{
     img: [{
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }]
 }, {
     name: 'Thẩm mỹ hàm mặt',
@@ -316,38 +316,38 @@ const video_da_1_1_0_menu = [{
     img: [{
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }]
 }, {
     name: 'Trị mụn',
@@ -355,38 +355,38 @@ const video_da_1_1_0_menu = [{
     img: [{
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }]
 }, {
     name: 'Trị sẹo',
@@ -394,38 +394,38 @@ const video_da_1_1_0_menu = [{
     img: [{
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }]
 }, {
     name: 'Phun xăm',
@@ -433,38 +433,38 @@ const video_da_1_1_0_menu = [{
     img: [{
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }]
 }, {
     name: 'Triệt lông',
@@ -472,38 +472,38 @@ const video_da_1_1_0_menu = [{
     img: [{
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }]
 }, {
     name: 'Trị thâm',
@@ -511,37 +511,37 @@ const video_da_1_1_0_menu = [{
     img: [{
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic1.jpg',
-        large: 'images/pic1.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-cat-mi-chuyen-giao-CN-Han.png'
     }, {
         desc: 'Review công nghệ cắt mí Natural Eyes',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }, {
         desc: 'Tại sao phải chiếu tia Plasma sau phẫu thuật thẩm mỹ -  Công nghệ ĐỘC QUYỀN tại Đông Á',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic2.jpg',
-        large: 'images/pic2.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Thumb-Cat-mi-NANO-PLASMA.png'
     }, {
         desc: 'Cắt mí Natural Eyes - 5 ngày đẹp ngay kịp Tết',
         src: 'aM_XIWjxcYA',
-        small: 'images/pic3.jpg',
-        large: 'images/pic3.jpg'
+        small: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png',
+        large: 'https://benhvienthammydonga.vn/wp-content/uploads/2023/02/Can-canh-cat-mi.png'
     }]
 }]

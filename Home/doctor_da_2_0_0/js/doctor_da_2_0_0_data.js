@@ -93,7 +93,7 @@ const dataDoctor = [
         name: "BS Huỳnh Tuyết Như",
         position: " BS Điều trị nám - tàn nhang công nghệ cao",
         image:
-            "https://benhvienthammydonga.vn/wp-content/uploads/2023/02/bs-huynh-tuyet-nhu.png",
+            "https://benhvienthammydonga.vn/wp-content/uploads/2023/02/bs-tuyet-nhu.png",
         category: "Điều trị - Trẻ hóa da",
         showHome: "false",
         imageRegion: "none",

@@ -41,7 +41,6 @@
 <body>
     <!-- HEADER -->
     <header class="header_da_1_0_0" id="header_da_1_0_0"></header>
-    <div class="header_da_1_0_0__bg" id="headerBg"></div>
     <!-- END HEADER -->
 
     <div class="container">
@@ -77,129 +76,18 @@
     <!-- END FOOTER -->
 </body>
 <script>
-    imgTheme('Header/header_da_1_0_0/', '.header_da_1_0_0 img')
-    imgTheme('Post/sidebarService_da_1_0_0/', '.sidebarService_da_1_0_0 img')
-    imgTheme('Post/sidebarNew_da_1_0_0/', '.sidebarNew_da_1_0_0 img')
-    imgTheme('Post/contact_da_1_0_0/', '.contact_da_1_0_0 img')
-    imgTheme('Post/breadcumb_da_1_0_0/', '.breadcumb_da_1_0_0 img')
-    imgTheme('Category/cateNew_da_1_0_0/', '.cateNew_da_1_0_0 img')
-    imgTheme('Footer/footer_da_1_0_0/', '.footer_da_1_0_0 img')
+
 
     renderModule('Header', 'header_da_1_0_0', '', 'logic');
-    renderModule('Post', 'breadcumb_da_1_0_0', '', 'logic');
+    renderModule('Post', 'breadcumb_da_1_0_0', '', '');
     renderModule('Category', 'cateNew_da_1_0_0', 'data', 'logic');
     renderModule('Post', 'sidebarService_da_1_0_0', 'data', 'logic');
-    renderModule('Post', 'sidebarNew_da_1_0_0', '', 'logic');
-    renderModule('Post', 'contact_da_1_0_0', '', 'logic');
-    renderModule('Footer', 'footer_da_1_0_0', '', 'logic');
+    renderModule('Post', 'sidebarNew_da_1_0_0', '', '');
+    renderModule('Post', 'contact_da_1_0_0', '', '');
+    renderModule('Footer', 'footer_da_1_0_0', '', '');
 
-    function imgTheme(path, tag) {
-        let x = document.querySelectorAll(tag);
-        for (let item of x) {
-            let src = item.getAttribute('src');
-            src = path + src;
-            item.setAttribute('src', src);
-        }
-    }
 
-    function sourceTheme(path, tag) {
-        let x = document.querySelectorAll(tag);
-        for (let item of x) {
-            let srcset = item.getAttribute('srcset');
-            srcset = path + srcset;
-            item.setAttribute('srcset', srcset);
-        }
-    }
 </script>
-<script>
-    document.addEventListener("scroll", function () {
-        myLazy('img.lazy', 'src');
-        myLazy('source.lazy', 'srcset');
-        myLazy('.lazy-bg', 'img-bg');
-        myLazy('.load', 'loaded');
-        onScroll('.header_1_1_0__list a', 'section', 'active');
 
-    });
-    scrollClick('.header_1_1_0__list a, a[href="#pageReg"]');
-    LazyShowScreen('img.lazy', 'src')
-    LazyShowScreen('.load', 'loaded')
-
-    // Lazy load
-    function myLazy(sec, attr) {
-        const section_loads = document.querySelectorAll(sec);
-        let winTop = window.innerHeight;
-
-        for (let i = 0; i < section_loads.length; i++) {
-            let pos_top = section_loads[i].getBoundingClientRect().top;
-            let pos_bottom = section_loads[i].getBoundingClientRect().bottom;
-            let delay = section_loads[i].getAttribute('delay-time');
-            if (pos_top <= winTop && pos_bottom >= 0) {
-                switch (attr) {
-                    case 'src':
-                        section_loads[i].src = section_loads[i].dataset.src;
-                        section_loads[i].classList.remove('lazy');
-                        break;
-                    case 'srcset':
-                        section_loads[i].srcset = section_loads[i].dataset.srcset;
-                        section_loads[i].classList.remove('lazy');
-                        break;
-                    case 'img-bg':
-                        section_loads[i].classList.remove('lazy-bg');
-                        section_loads[i].classList.add('img-bg');
-                        break;
-                    case 'loaded':
-                        setTimeout(() => {
-                            section_loads[i].classList.remove('load');
-                            section_loads[i].classList.add('loaded');
-                        }, delay)
-                        break;
-                    case 'slide':
-                        section_loads[i].classList.add('slide');
-                        break;
-                    default:
-                        console.log(`Sorry, we are out of ${attr}.`);
-                }
-
-            }
-        }
-
-    }
-
-    function LazyShowScreen(sec, attr) {
-        const section_loads = document.querySelectorAll(sec);
-        let win_height = screen.height;
-        for (let i = 0; i < section_loads.length; i++) {
-            let delay = section_loads[i].getAttribute('delay-time');
-
-            if (section_loads[i].getBoundingClientRect().top < win_height) {
-                switch (attr) {
-                    case 'loaded':
-                        setTimeout(() => {
-                            section_loads[i].classList.add('loaded');
-                        }, delay)
-                        break;
-                    case 'src':
-                        section_loads[i].src = section_loads[i].dataset.src;
-                        section_loads[i].classList.remove('lazy');
-                        break;
-                    case 'srcset':
-                        section_loads[i].srcset = section_loads[i].dataset.srcset;
-                        section_loads[i].classList.remove('lazy');
-                        break;
-                    case 'img-bg':
-                        section_loads[i].classList.remove('lazy-bg');
-                        section_loads[i].classList.add('img-bg');
-                        break;
-                    case 'slide':
-                        section_loads[i].classList.remove('slide');
-                        section_loads[i].classList.add('slide');
-                        break;
-                    default:
-                        console.log(`Sorry, we are out of ${attr}.`);
-                }
-            }
-        }
-    }
-</script>
 
 </html>
